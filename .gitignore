@@ -1,15 +1,1 @@
-
-# Playwright
-node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/playwright/.auth/
-
-# Local agent settings
-.claude/
-
-# Local secrets (credentials, tokens) - never commit
-.env
-.env.*
+# Intentionally empty: this repository is a full migration snapshot.

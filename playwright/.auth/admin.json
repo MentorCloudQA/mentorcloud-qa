@@ -1,0 +1,99 @@
+{
+  "cookies": [
+    {
+      "name": "mp_06510517a29b19ad0140ca6c767697c7_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%22%24device%3A9081cc6d-0d9e-4734-af20-7df4366fe503%22%2C%22%24device_id%22%3A%229081cc6d-0d9e-4734-af20-7df4366fe503%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+      "domain": ".mentorcloud.com",
+      "path": "/",
+      "expires": 1812806207,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1250183018.1781270207",
+      "domain": ".mentorcloud.com",
+      "path": "/",
+      "expires": 1815830212.542694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1036971129.1781270207",
+      "domain": ".mentorcloud.com",
+      "path": "/",
+      "expires": 1781356612,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-57382238-3",
+      "value": "1",
+      "domain": ".mentorcloud.com",
+      "path": "/",
+      "expires": 1781270267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_X1FT7ZXE5N",
+      "value": "GS2.2.s1781270208$o1$g0$t1781270208$j60$l0$h0",
+      "domain": ".mentorcloud.com",
+      "path": "/",
+      "expires": 1815830208.499114,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrftoken",
+      "value": "wu9vpVBn4vYXq7P72xxFMaRprZoyjJW7sgp1ArPotJ9ztM8YIvnSuNRDutdfvDz1",
+      "domain": "staging-global.mentorcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionid",
+      "value": "ckdupcwjqknw5g4rtz9qhhyua0odlo4v",
+      "domain": "staging-global.mentorcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-57382238-1",
+      "value": "1",
+      "domain": ".mentorcloud.com",
+      "path": "/",
+      "expires": 1781270272,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://staging-global.mentorcloud.com",
+      "localStorage": [
+        {
+          "name": "primaryColor",
+          "value": "#1a4c7b"
+        },
+        {
+          "name": "persistTime",
+          "value": "1781270212531"
+        }
+      ]
+    }
+  ]
+}
