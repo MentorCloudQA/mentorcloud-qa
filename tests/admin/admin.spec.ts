@@ -13,7 +13,7 @@ import { STORAGE_STATE } from '../utils/credentials';
  * Sections: Dashboard · Reports (see reports.spec) · Invitation · Emails
  *   (preferences) · Settings · Tools · Engage Users · User Segments.
  */
-test.use({ storageState: STORAGE_STATE.admin });
+tst.use({ storageState: STORAGE_STATE.admin });
 
 test.describe('Admin Panel', () => {
   // TC-ADMIN-001 — The admin panel nav exposes every primary section.
