@@ -16,7 +16,7 @@ import { openAvatarMenu } from '../utils/shell';
  *   submit   -> button.js_login_btn
  *   OTP CTA  -> button.js_login_with_otp_btn  (+ modal with 6x input.otp__input)
  */
-test.use({ storageState: { cookies: [], origins: [] } });
+atest.use({ storageState: { cookies: [], origins: [] } });
 
 test.describe('Authentication', () => {
   // TC-AUTH-001 — Login page loads with email, password, and login button
